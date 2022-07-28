@@ -21,5 +21,10 @@ namespace Comteco.Tv
         {
 
         }
+
+        private void addToPlayListToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
